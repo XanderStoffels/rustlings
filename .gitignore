@@ -78,3 +78,5 @@ tests/fixture/success/compSuccess.rs
 tests/fixture/success/testSuccess.rs
 
 tests/integration_tests.rs
+
+*.exe
